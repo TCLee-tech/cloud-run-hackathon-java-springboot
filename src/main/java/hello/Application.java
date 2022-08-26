@@ -14,7 +14,7 @@ import java.util.Random;
 public class Application {
 
   static class Self {
-    public String href;
+    public String http://34.132.232.194/playground;
   }
 
   static class Links {
